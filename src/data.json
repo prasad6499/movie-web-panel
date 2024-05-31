@@ -1,0 +1,151 @@
+
+
+[
+        {
+           "imagePath": "/images/movie01.jpg",
+           "imageTitle": "",
+           "imageRating": ""
+        },
+        {
+            "imagePath": "/images/movie1.jpg",
+            "imageTitle": "Inception",
+            "imageRating": "8.8"
+        },
+        {
+            "imagePath": "/images/movie2.jpg",
+            "imageTitle": "The Dark Knight",
+            "imageRating": "9.0"
+        },
+        {
+            "imagePath": "/images/movie3.jpg",
+            "imageTitle": "Interstellar",
+            "imageRating": "8.6"
+        },
+        {
+            "imagePath": "/images/movie4.jpg",
+            "imageTitle": "Fight Club",
+            "imageRating": "8.8"
+        },
+        {
+            "imagePath": "/images/movie5.jpg",
+            "imageTitle": "Forrest Gump",
+            "imageRating": "8.8"
+        },
+        {
+            "imagePath": "/images/movie6.jpg",
+            "imageTitle": "The Matrix",
+            "imageRating": "8.7"
+        },
+        {
+            "imagePath": "/images/movie7.jpg",
+            "imageTitle": "The Godfather",
+            "imageRating": "9.2"
+        },
+        {
+            "imagePath": "/images/movie8.jpg",
+            "imageTitle": "The Shawshank Redemption",
+            "imageRating": "9.3"
+        },
+        {
+            "imagePath": "/images/movie9.jpg",
+            "imageTitle": "Pulp Fiction",
+            "imageRating": "8.9"
+        },
+        {
+            "imagePath": "/images/movie10.jpg",
+            "imageTitle": "The Lord of the Rings: The Return of the King",
+            "imageRating": "8.9"
+        },
+        {
+            "imagePath": "/images/movie11.jpg",
+            "imageTitle": "Star Wars: Episode V - The Empire Strikes Back",
+            "imageRating": "8.7"
+        },
+        {
+            "imagePath": "/images/movie12.jpg",
+            "imageTitle": "The Lion King",
+            "imageRating": "8.5"
+        },
+        {
+            "imagePath": "/images/movie13.jpg",
+            "imageTitle": "Back to the Future",
+            "imageRating": "8.5"
+        },
+        {
+            "imagePath": "/images/movie14.jpg",
+            "imageTitle": "Gladiator",
+            "imageRating": "8.5"
+        },
+        {
+            "imagePath": "/images/movie15.jpg",
+            "imageTitle": "Jurassic Park",
+            "imageRating": "8.1"
+        },
+        {
+            "imagePath": "/images/movie16.jpg",
+            "imageTitle": "Titanic",
+            "imageRating": "7.8"
+        },
+        {
+            "imagePath": "/images/movie17.jpg",
+            "imageTitle": "Avengers: Endgame",
+            "imageRating": "8.4"
+        },
+        {
+            "imagePath": "/images/movie18.jpg",
+            "imageTitle": "Avatar",
+            "imageRating": "7.8"
+        },
+        {
+            "imagePath": "/images/movie19.jpg",
+            "imageTitle": "The Avengers",
+            "imageRating": "8.0"
+        },
+        {
+            "imagePath": "/images/movie20.jpg",
+            "imageTitle": "Guardians of the Galaxy",
+            "imageRating": "8.0"
+        },
+        {
+            "imagePath": "/images/movie21.jpg",
+            "imageTitle": "Spider-Man: Into the Spider-Verse",
+            "imageRating": "8.4"
+        },
+        {
+            "imagePath": "/images/movie22.jpg",
+            "imageTitle": "Coco",
+            "imageRating": "8.4"
+        },
+        {
+            "imagePath": "/images/movie23.jpg",
+            "imageTitle": "Toy Story",
+            "imageRating": "8.3"
+        },
+        {
+            "imagePath": "/images/movie24.jpg",
+            "imageTitle": "Finding Nemo",
+            "imageRating": "8.1"
+        },
+        {
+            "imagePath": "/images/movie25.jpg",
+            "imageTitle": "Inside Out",
+            "imageRating": "8.1"
+        },
+        {
+            "imagePath": "/images/movie26.jpg",
+            "imageTitle": "Frozen",
+            "imageRating": "7.4"
+        },
+        {
+            "imagePath": "/images/movie27.jpg",
+            "imageTitle": "Moana",
+            "imageRating": "7.6"
+        },
+        {
+            "imagePath": "/images/movie28.jpg",
+            "imageTitle": "Zootopia",
+            "imageRating": "8.0"
+        }
+    ]
+    
+]

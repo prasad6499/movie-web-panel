@@ -1,0 +1,129 @@
+nav {
+  background-color: #34393f;
+  color: white;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  box-shadow: 0 0 10px rgba(110, 107, 107, 0.735);
+  position: sticky;
+}
+
+nav div {
+  padding-left: 60px;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+
+nav .navRight{
+  display: flex;
+  justify-content: flex-end;
+  margin-left: auto;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  padding-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+nav form {
+  display: inline;
+  padding-right: 50px;
+}
+
+nav input {
+  padding: 7px;
+  border-radius: 5px;
+}
+
+nav button {
+  padding: 7px 12px;
+  margin-left: 5px;
+  background-color: gray;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+
+
+
+@media (max-width: 768px) {
+  nav {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  nav ul {
+    flex-direction: row;
+    width: 100%;
+  }
+
+  nav ul li {
+    padding-left: 10px;
+    text-align: center;
+  }
+
+  nav form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-right: 0;
+    margin-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  nav input, nav button {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+@media (min-width: 488px) {
+  .menuButton {
+    display: none;
+  }
+}
+
+@media (max-width: 487px) {
+  .navRight ul {
+    display: none;
+  }
+
+  .navRight.showMenu ul {
+    display: block;
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .navRight.showMenu ul li {
+    display: block;
+    margin-bottom: 10px; /* Adjust as needed */
+  }
+
+  .menuButton {
+    display: block;
+    cursor: pointer;
+  }
+
+  .menuButton.showMenu {
+    display: none;
+  }
+
+  .dropdown {
+    display: none;
+  }
+}
+
